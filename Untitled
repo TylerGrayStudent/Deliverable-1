@@ -1,0 +1,7 @@
+Glossary for Election System
+Voter - user casting votes on candidates in the Election
+Ballot - selection of possible candidates to be voted for
+Polls - Location where a voter goes to cast their vote
+Registered Voter - someone signed up in the system and is legally allowed to cast a vote
+Unregistered Voter - someone who needs to sign up to be eligible to cast a vote
+Cast - synonym for place (i.e. cast a vote)
