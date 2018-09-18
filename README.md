@@ -50,6 +50,13 @@ UML And PDF Diagram Version in GitHub Project
 Supplemental Specs
 
 
+Risk List
+
+Preventing voter signing in to multiple accounts to vote more than once
+Storing voters data legallity issues
+
+
+
 Glossary
 
 Voter - user casting votes on candidates in the Election
